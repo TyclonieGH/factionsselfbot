@@ -1,0 +1,7 @@
+TOKEN HERE
+PREFIX
+DELETE BROKEN DBS (True/False)
+OS HERE
+
+LAYOUT: User/Bot Token is Line 1. Bot Prefix Is Line 2.
+Delete Broken DB? True / False Is Line 3. OS Is Line 3 Mac/Windows.
